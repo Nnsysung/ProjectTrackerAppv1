@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ProjectTrackerApp/bin/Debug/net8.0
+/ProjectTrackerApp/obj/Debug/net8.0
+/ProjectTrackerApp/obj
+/Domain/bin/Debug/net8.0
+/Domain/obj
